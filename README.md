@@ -1,1 +1,2 @@
-# disney-hotstar-clone
+# Disney-Hotstar-Clone
+Created with CodeSandbox
